@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Metronome</string>
+    <string name="base_value">100</string>
+    <string name="BPM">BPM:</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+</resources>
