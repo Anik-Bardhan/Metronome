@@ -1,3 +1,3 @@
 # Metronome
 
-Self-coded simple metronome application.
+Self-coded simple metronome application..
